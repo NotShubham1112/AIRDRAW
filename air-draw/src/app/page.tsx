@@ -25,7 +25,7 @@ export default function LandingPage() {
       {/* Top Navigation */}
       <nav className="absolute top-0 right-0 z-50 flex w-full items-center justify-end gap-3 p-6 sm:p-8">
         <Link 
-          href="https://github.com/shubham-kambli/air-draw" 
+          href="https://github.com/NotShubham1112/AIRDRAW" 
           target="_blank" 
           rel="noopener noreferrer"
           className="flex items-center gap-2 rounded-full border border-zinc-800 bg-zinc-900/50 px-4 py-2 text-sm font-medium text-zinc-300 transition-colors hover:bg-zinc-700 hover:text-white backdrop-blur-md"
@@ -34,7 +34,7 @@ export default function LandingPage() {
           <span>Docs</span>
         </Link>
         <Link 
-          href="https://github.com/shubham-kambli/air-draw" 
+          href="https://github.com/NotShubham1112/AIRDRAW" 
           target="_blank" 
           rel="noopener noreferrer"
           className="flex items-center gap-2 rounded-full border border-zinc-800 bg-zinc-900/50 px-4 py-2 text-sm font-medium text-zinc-300 transition-colors hover:bg-zinc-700 hover:text-white backdrop-blur-md"
