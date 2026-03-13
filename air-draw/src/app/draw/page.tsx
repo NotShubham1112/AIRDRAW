@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { Download, Trash2 } from "lucide-react";
+import { Download, Trash2, Github } from "lucide-react";
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
@@ -659,6 +659,15 @@ export default function DrawPage() {
               <Download className="h-4 w-4" />
               <span>Save</span>
             </button>
+            <a
+              href="https://github.com/NotShubham1112/AIRDRAW"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 rounded-full bg-zinc-800/80 px-4 py-2 text-sm font-semibold text-zinc-300 transition-all hover:bg-zinc-700 hover:text-white backdrop-blur border border-white/10"
+            >
+              <Github className="h-4 w-4" />
+              <span>GitHub</span>
+            </a>
           </div>
 
           <div className="hidden md:flex flex-col items-end rounded-2xl bg-black/60 px-4 py-2.5 backdrop-blur text-[11px] text-zinc-400 space-y-0.5 border border-white/5">
