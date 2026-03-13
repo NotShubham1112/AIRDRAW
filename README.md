@@ -1,3 +1,17 @@
+
+<div align="center">
+
+## 👨‍💻 Created by Shubham Kambli
+### Founder of COSMIC • AI Engineer • Open-Source Builder
+
+*19-year-old Founder of COSMIC, AI engineer, and open-source builder creating production-ready tools at the intersection of artificial intelligence and software engineering*
+
+🌐 [shubham-plum.vercel.app](https://shubham-plum.vercel.app) • 📧 [shubhamkambli1112@gmail.com](mailto:shubhamkambli1112@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/shubham-kambli-720650339) • 🐦 [@Not_Shubham_111](https://twitter.com/Not_Shubham_111)
+
+📖 [View Full Portfolio](https://shubham-plum.vercel.app) • 🏠 [Wiki Home](https://github.com/NotShubham111/Lost-Link/wiki)
+
+</div>
+
 # ✋ Hand Gesture Air Canvas — Complete Guide
 
 > Draw in the air with your finger. Recognize shapes. Play the shape challenge game.
